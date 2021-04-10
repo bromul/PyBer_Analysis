@@ -1,12 +1,12 @@
-# PyBer with MatPlotLib
+# PyBer with Matplotlib
 
-## Purpose
+## Overview of PyBer Project
 
-## Overview
+### Purpose
 
 
 ## Results
-Describe the differences in ride-sharing date between city types
+Describe the differences in ride-sharing data between city types
 
 
 ## Summary
