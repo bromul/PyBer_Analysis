@@ -13,27 +13,37 @@ Describe the differences in ride-sharing data between city types
 
 ### Total Rides
 Rural: 125
+
 Suburban: 625
+
 Urban: 1,625
 
 ### Total Drivers
 Rural: 78
+
 Suburban: 490
+
 Urban: 2,405
 
 ### Total Fares
 Rural: $4,327.93 
+
 Suburban: $19,356.33
+
 Urban: $39,854.38
 
 ### Average Fare per Ride
 Rural:  $34.62
+
 Suburban: $30.97
+
 Urban: $24.53
 
 ### Average Fare per Driver
 Rural: $55.49
+
 Suburban: $39.50
+
 Urban: $16.57
 
 ### Total Fare by City Type
