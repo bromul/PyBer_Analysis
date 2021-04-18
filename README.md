@@ -83,12 +83,15 @@ Conversely, Rural cities have consistently brought in less than $500 per week in
 
 
 ## Summary
-3 business recommendations to the CEO for addressing any disparities between city types
 
-1) PyBer's infrastructure should be increased in Rural and Suburban cities. They vastly lag behind Urban cities in driver count, ride count, and fare price.
+The analysis above demonstrated large disparities between the three city types (Urban, Suburban, and Rural) with ride counts, driver counts, total fares, and average fares.
 
-2) Driver's concetrated in Urban cities, with there being more drivers than total rides taken. While this can ensure riders are quickly connected with a driver, it can potentially have deleterious effects to driving pools down the line if drivers are unable to get work. Recommend increase marketing and expansion of services to close this gap.
+Below are recommendations to remedy these disparities and increase access to PyBer:
 
-3) 
+1) PyBer's infrastructure should be increased in Rural and Suburban cities, with emphasis placed on reaching out to Rural communities. This can be achieved through targetted marketing campaigns, investment, and/or offering deals to customers so they can see how life-changing PyBer can be for them.
+
+2) Drivers are concetrated in Urban cities, which has led to there being more drivers than total rides taken. Conversely, Rural cities have more rides than drivers at the moment, which can potentially lead to longer wait times for customers. We recommend an increase in marketing and the expansion of PyBer services to entice customers (or drivers, where needed) and close this gap. 
+
+3) Rural cities have exceptionally high fares, likely due to the lack of rides being taken within them. However, high fares may also put a negative pressure on ride counts within these cities. We recommend using funds generated from Urban cities to temporarily subsidize costs in Rural cities, as a part of a larger project of expansion. In doing so, we will be bolstering the total number of rides and drivers we have in Rural areas, which should lower their prices as supply increases, and further increase access to PyBer and its services.
 
 
